@@ -1,0 +1,6 @@
+#folder
+**/node_modules
+**/dist
+
+#file
+tailwind.config.js
